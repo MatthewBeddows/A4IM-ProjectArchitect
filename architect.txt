@@ -1,6 +1,6 @@
 #Battery System
-[system address] https://github.com/MatthewBeddows/SystemDemo1
+[module address] https://github.com/MatthewBeddows/SystemDemo1
 #Battery System
-[system address] https://github.com/MatthewBeddows/SystemDemo2
+[module address] https://github.com/MatthewBeddows/SystemDemo2
 #Battery System
-[system address] https://github.com/MatthewBeddows/SystemDemo3
+[module address] https://github.com/MatthewBeddows/SystemDemo3
