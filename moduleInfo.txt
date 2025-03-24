@@ -1,0 +1,7 @@
+[Module Name] Magnet Geometry Design
+[Module Info] This handles all of the A4IM  scanners systems, and hosts the complete set of instructions.
+
+[Requirements]
+[module address] https://github.com/MatthewBeddows/SystemDemo1
+[module address] https://github.com/MatthewBeddows/SystemDemo2
+[module address] https://github.com/MatthewBeddows/SystemDemo3
